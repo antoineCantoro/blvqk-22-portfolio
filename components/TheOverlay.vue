@@ -31,7 +31,7 @@
     overflow: hidden;
 }
 
-span {
+.overlay-content-wrapper > span {
     display: block;
     transform: translateY(100%);
 
